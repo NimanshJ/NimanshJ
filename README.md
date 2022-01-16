@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NimanshJ
+- 👋 Hi, I’m @NimanshJ, 14 years old
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on Python
